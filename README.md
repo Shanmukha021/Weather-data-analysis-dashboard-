@@ -16,3 +16,5 @@ The dashboard includes multiple charts such as area plots, scatter plots, histog
 
 ## Project Insights:       
 Key insights include identifying relationships between wind speed and temperature, spotting distribution trends, and providing a clearer understanding of weather patterns for better decision-making.
+## Final conclusion
+This code creates an interactive weather dashboard using Dash and Plotly to visualize data on temperature, wind degree, and wind speed through various dynamic charts. Users can filter data by wind degree and temperature, with real-time updates. The dark-themed interface offers an engaging way to explore weather patterns effectively.
