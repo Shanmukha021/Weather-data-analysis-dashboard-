@@ -6,7 +6,10 @@ To build an interactive dashboard that analyzes weather data to provide insights
 The dataset used is a weather forecast dataset containing columns like wind speed, wind direction (degree), temperature, and more.
 <a href="https://github.com/Shanmukha021/Weather-data-analysis-dashboard-/tree/main">Dataset</a>
 ## Questions (KPIs):    
-How does wind speed impact temperature?  What are the distribution patterns of wind speed and temperature?                  What trends can be identified for specific wind degrees?
+How does wind speed impact temperature?
+What are the distribution patterns of wind speed and temperature?    
+What trends can be identified for specific wind degrees?
+
 <a href="https://github.com/Shanmukha021/Weather-data-analysis-dashboard-/tree/main">View Dashboard</a>
 ## Process:      
 Data is cleaned and processed, followed by the creation of interactive plots using Dash and Plotly for real-time data visualization and analysis.
